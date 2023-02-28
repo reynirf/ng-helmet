@@ -16,7 +16,7 @@ import { NgHelmetChildDirective } from "./ng-helmet-child.directive";
 let currentId = 0;
 
 @Component({
-  selector: "ng-helmet",
+  selector: "glaze-ng-helmet",
   template: ``,
 })
 export class NgHelmetComponent implements AfterContentInit, OnDestroy {

@@ -1,9 +1,9 @@
 {
-  "name": "ng-helmet",
+  "name": "glaze-ng-helmet",
   "$schema": "../../node_modules/nx/schemas/project-schema.json",
   "projectType": "library",
   "sourceRoot": "packages/ng-helmet/src",
-  "prefix": "ng-helmet",
+  "prefix": "glaze-ng-helmet",
   "targets": {
     "build": {
       "executor": "@nrwl/angular:package",

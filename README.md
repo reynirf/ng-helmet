@@ -38,7 +38,7 @@ yarn add ng-helmet
 Import the `NgHelmetModule` into your `AppModule` to access the `ng-helmet` component in your components. This module can be optionally configured with the `forRoot` method:
 
 ```typescript
-import { NgHelmetModule } from "ng-helmet";
+import { NgHelmetModule } from "glaze-ng-helmet";
 
 @NgModule({
   imports: [

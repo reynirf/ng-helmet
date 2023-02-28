@@ -18,7 +18,7 @@
     "skipDefaultLibCheck": true,
     "baseUrl": ".",
     "paths": {
-      "ng-helmet": ["packages/ng-helmet/src/index.ts"]
+      "glaze-ng-helmet": ["packages/ng-helmet/src/index.ts"]
     }
   },
   "exclude": ["node_modules", "tmp"]

@@ -1,6 +1,6 @@
 /* eslint-disable */
 export default {
-  displayName: "ng-helmet",
+  displayName: "glaze-ng-helmet",
   preset: "../../jest.preset.js",
   setupFilesAfterEnv: ["<rootDir>/src/test-setup.ts"],
   globals: {

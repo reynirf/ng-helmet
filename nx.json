@@ -1,5 +1,5 @@
 {
-  "npmScope": "ng-helmet",
+  "npmScope": "glaze-ng-helmet",
   "affected": {
     "defaultBase": "master"
   },
@@ -49,5 +49,5 @@
       "style": "scss"
     }
   },
-  "defaultProject": "ng-helmet"
+  "defaultProject": "glaze-ng-helmet"
 }
